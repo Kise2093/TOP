@@ -51,3 +51,7 @@ left: 907px;
 top: 239px;
 
 }
+
+* {
+    border: 2px solid red;
+}
