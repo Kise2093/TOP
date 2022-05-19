@@ -1,0 +1,46 @@
+.bod {
+    width: 400px;
+    background: #fff;
+    margin: 16px auto;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    font-size: 16px;
+    padding: 8px;
+}
+
+h1 {
+    background-color: #e3f4ff;
+    margin: 8px;
+    padding: 8px;
+    text-align: center;
+}
+
+.para {
+    background-color: #e3f4ff;
+    padding: 8px;
+    margin: 8px;
+}
+
+.but {
+    background-color: #e3f4ff;
+    text-align: center;
+    padding: 8px;
+    margin: 8px;
+
+}
+
+body {
+    background: #eee;
+    font-family: sans-serif;
+  }
+
+  button {
+    display: block;
+    margin: 0 auto;
+    padding: 8px 24px;
+    background-color: #fff;
+  }
+
+  body {
+      border: rgb(30, 95, 235) solid 34px;
+  }

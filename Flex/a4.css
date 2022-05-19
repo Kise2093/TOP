@@ -1,0 +1,32 @@
+body {
+    font-family: monospace;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    margin: 0;
+    background-color: palegoldenrod;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
+
+.item {
+    margin: 52px;
+    margin-top: 32px;
+}
+
+.bottom {
+    display: flex;
+    border: palevioletred solid 4px;
+    justify-content: center;
+    background-color: palevioletred;
+}
+
+p {
+    max-width: 200px;
+    color: aliceblue;
+}
